@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+}
+.left {
+  display: inline-block;
+  width: calc(100% / 2 - 25px);
+  vertical-align: top;
+  margin: 10px;
+}
+.right {
+  display: inline-block;
+  width: calc(100% / 2 - 25px);
+  vertical-align: top;
+  margin: 10px;
+}
+.box {
+    width: 100%;
+    height: 275px;
+    background-color: #A8A8A8;
+}
+h1 {
+  font-size: 48px;
+  font-family: sans-serif;
+}
+.header {
+  background-color: #383838;
+  height:75px;
+  width: 100%;
+  position: relative;
+}
+.apple {
+  color: white;
+  position: absolute;
+  bottom: 25px;
+  left: 50px;
+}
+.google {
+  color: white;
+  position: absolute;
+  bottom: 25px;
+  left: 125px;
+}
+.footer {
+  background-color: #383838;
+  height:75px;
+  width: 100%;
+}
+.body {
+  margin: 40px 25px 40px 25px;
+}

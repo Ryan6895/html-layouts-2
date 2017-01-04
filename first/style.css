@@ -1,0 +1,76 @@
+body{
+  margin: 5px;
+}
+
+.top {
+
+  width: calc(100% / 3 - 13px);
+  display: inline-block;
+  margin: 5px;
+  height: 18vh;
+}
+.topRed {
+  background-color: red;
+}
+.topBlue {
+  background-color: blue;
+}
+.topGray {
+  background-color: gray;
+}
+.text {
+  padding: 20px;
+  font-size: 20px;
+}
+.middle {
+  margin: 5px;
+  width: 100%;
+  height: 40vh;
+}
+.middleRed {
+  background-color: red;
+  height: 100%;
+  width: calc(100% / 3 - 5px);
+  float: left;
+
+}
+.middleBlue {
+  background-color: blue;
+  height: 100%;
+  width: calc(100% / 1.5 - 5px) ;
+  float: left;
+}
+.bottom {
+  width: 100%;
+  margin: 20px 0 20px 5px;
+  height: 18vh;
+  position: relative;
+}
+.bottomBlue {
+  width: calc(100% / 1.5 - 5px);
+  background-color: blue;
+  float: left;
+  height: 100%;
+
+}
+.bottomRed1 {
+  width: calc(100% / 21 - 5px);
+  background-color: red;
+  float: left;
+  height: 100%;
+
+}
+.bottomGray {
+  width: calc(100% / 4 - 5px);
+  background-color: gray;
+  float: left;
+  height: 100%;
+
+}
+.bottomRed2 {
+  width: calc(100% / 21 - 5px);
+  background-color: red;
+  float: left;
+  height: 100%;
+
+}

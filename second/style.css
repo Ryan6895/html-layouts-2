@@ -1,0 +1,86 @@
+body {
+  background-color: #E3E3E3;
+  margin: 0px;
+}
+.box {
+  margin: auto;
+  min-height: 275px;
+  width: 80%;
+  background-color: #fff;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.text {
+  margin: 30px;
+  position: absolute;
+  font-size: 1em;
+  line-height: 26px;
+  font-family: sans-serif;
+
+}
+.redButton {
+  background-color: #D10000;
+  position: absolute;
+  height: 50px;
+  width: 120px;
+  bottom: 25px;
+  left: 25px;
+}
+.blueButton {
+  background-color: #3692E7;
+  position: absolute;
+  height: 50px;
+  width: 120px;
+  bottom: 25px;
+  left: 165px;
+}
+span {
+  display:inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50% , -50%);
+  font-size: 21px;
+  font-family: sans-serif;
+  color: white;
+}
+.dark {
+  position: absolute;
+  margin: auto;
+  background-color: #383838;
+  height: 60%;
+  width: 90%;
+  top: 5%;
+  right: 5%;
+}
+.second {
+  top: 400px;
+}
+.bottom {
+  height: 600px;
+}
+#insert {
+  font-size: 33px;
+}
+.footer {
+  background-color: #383838;
+  height:75px;
+  width: 100%;
+  position: relative;
+}
+.apple {
+  color: white;
+  position: absolute;
+  bottom: 25px;
+  right: 125px;
+}
+.google {
+  color: white;
+  position: absolute;
+  bottom: 25px;
+  right: 50px;
+}
